@@ -1,6 +1,6 @@
 # Variational-Autoencoder-PyTorch
 
-This repository is to implement Variational Autoencoder and Conditional Autoencoder. Notebook files for training networks using Google Colab, and evaluating results are provided. Also, trained checkpoints are also included.
+This repository is to implement Variational Autoencoder and Conditional Autoencoder. Notebook files for training networks using Google Colab, and evaluating results are provided. Also, trained checkpoints are included.
 
 
 ## Variational Autoencoder (VAE)
